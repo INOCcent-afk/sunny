@@ -1,3 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../../public/fonts/Raleway\ 100.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
 html,
 body {
   padding: 0;
